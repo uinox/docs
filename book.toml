@@ -1,0 +1,6 @@
+[book]
+authors = ["uinox"]
+language = "en"
+multilingual = false
+src = "src"
+title = "docs"
