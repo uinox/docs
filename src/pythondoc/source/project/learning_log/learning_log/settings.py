@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'learning_log',
         'USER':'root',
         'PASSWORD':'Zhang1991#',
-        'HOST':'39.107.84.184',
+        'HOST':'learning_log.mysql',
         'PORT':'3306',
     }
 }
