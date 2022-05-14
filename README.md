@@ -4,6 +4,9 @@
 ### mdbook安装
     cargo install mdbook
 
+### 初始化一本书
+    mdbook init [my-first-book]
+
 ### 开发环境
     mdbook serve [path] [-p 8080] [-n 0.0.0.0]
     
